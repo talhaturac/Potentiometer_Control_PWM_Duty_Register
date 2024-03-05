@@ -27,7 +27,7 @@
 ## About The Project
 
 <p align="center">
-  <a href="https://github.com/talhaturac/Potentiometer_Control_PWM_Duty/tree/main/images">
+  <a href="https://github.com/talhaturac/Potentiometer_Control_PWM_Duty_Register/tree/main/images">
     <img src="images/pict1_small.jpg" width="600" height="700">
   </a>
 
@@ -43,15 +43,15 @@ Why are we here:
 You can experiment by customizing the project code to your own TI development board. Or you can use the information shared here to create your own customizations that use the ADC unit and ePWM unit. The actual code is in the main.c file. 
 
 <p align="center">
-  <a href="https://github.com/talhaturac/Potentiometer_Control_PWM_Duty/tree/main/images">
+  <a href="https://github.com/talhaturac/Potentiometer_Control_PWM_Duty_Register/tree/main/images">
     <img src="images/pict2_small.jpg" width="600" height="700">
   </a>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/talhaturac/Potentiometer_Control_PWM_Duty/tree/main/images">
-    <img src="images/pict3.png" width="800" height="450">
+  <a href="https://github.com/talhaturac/Potentiometer_Control_PWM_Duty_Register/tree/main/images">
+    <img src="images/pict3.png" width="850" height="420">
   </a>
 
 <br/>
