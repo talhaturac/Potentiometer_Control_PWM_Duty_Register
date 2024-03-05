@@ -9,7 +9,7 @@
   <h3 align="center">
     This project is developed to control the duty cycle of PWM signals with a potentiometer.
     <br/> 
-    (The PWM is controlled at register level "without using EPWM_configureSignal")
+    ("without using EPWM_configureSignal" The PWM is controlled at register level)
     <br/> 
     <br/>
   </h3>
