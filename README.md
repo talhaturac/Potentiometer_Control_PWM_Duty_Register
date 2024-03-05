@@ -104,6 +104,7 @@ float32_t  d_value = 0;
 ```
 
 This function contains the necessary steps to initialize EPWM2. It configures GPIO pins, resets PWM2 peripheral, and sets up synchronization. 
+<br/>
 ! These operations are done using registers !
 ```
 void PWM_Setup()
