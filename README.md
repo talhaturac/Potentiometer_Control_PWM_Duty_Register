@@ -90,7 +90,7 @@ void    ASYSCTL_init();
 void    INTERRUPT_init();
 void    PinMux_init();
 void    TriggerEPWM_init();
-void    EPWM2_init();
+void    PWM_Setup();
 void    change_duty_ratio();
 extern __interrupt void adcA1ISR(void);
 ```
@@ -103,9 +103,10 @@ float32_t  dutyRatio;
 float32_t  d_value = 0;
 ```
 
-This function contains the necessary steps to initialize EPWM2. It configures GPIO pins, resets PWM2 peripheral, and sets up synchronization.
+This function contains the necessary steps to initialize EPWM2. It configures GPIO pins, resets PWM2 peripheral, and sets up synchronization. 
+! These operations are done using registers !
 ```
-void EPWM2_init()
+void PWM_Setup()
 ```
 
 This function is used to change the PWM duty ratio. It calculates the duty cycle of the PWM signal based on the ADC value and configures the PWM signal.
