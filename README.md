@@ -51,8 +51,13 @@ You can experiment by customizing the project code to your own TI development bo
 
 <p align="center">
   <a href="https://github.com/talhaturac/Potentiometer_Control_PWM_Duty/tree/main/images">
-    <img src="images/pict3.png" width="800" height="350">
+    <img src="images/pict3.png" width="800" height="450">
   </a>
+
+<br/>
+In the "Watch Expressions" section, the change of CMPA and CMPB values at the register level, that is, the values printed on it for control purposes, can be monitored as shown in the image.
+<br/>
+<br/>
 
 ## Built With
 
